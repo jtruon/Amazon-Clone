@@ -1,3 +1,6 @@
+<h3> Amazon-Clone Project <img src="https://merivisfoundation.org/wp-content/uploads/2018/02/Amazon-Logo-Transparent-PNG.png" height="40px">
+</h3>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
